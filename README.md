@@ -1,2 +1,4 @@
-# zomato-proj-master-shapeai
-s
+
+# Zomato Clone "ShapeAi"
+
+Built Clone of Zomato during my ShapeAi journey.
